@@ -1,0 +1,10 @@
+16:19:00 **** Incremental Build of configuration Debug for project FreeRTOS_Event_Flag ****
+make -j4 all 
+arm-none-eabi-size   FreeRTOS_Event_Flag.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30764	    116	   8700	  39580	   9a9c	FreeRTOS_Event_Flag.elf
+Finished building: default.size.stdout
+ 
+
+16:19:01 Build Finished. 0 errors, 0 warnings. (took 518ms)
+
